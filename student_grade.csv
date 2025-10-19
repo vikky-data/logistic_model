@@ -1,0 +1,26 @@
+student_id,hours_studied,attendance,previous_score,extra_classes,age,gender,parent_education,passed
+1001,5,80.0,70.0,yes,18.0,Female,Bachelor,1
+1002,2,,45.0,No,17.0,Male,High School,0
+1003,8,90.0,88.0,YES,18.0,Female,Masters,1
+1004,3,40.0,55.0,no,19.0,Male,,0
+1005,,75.0,67.0,Yes,17.0,Female,Highschool,1
+1006,12,105.0,95.0,yes,25.0,Female,Bachelor,1
+1007,0,30.0,20.0,No,17.0,,,0
+1008,6,85.0,80.0,No,,Female,Bachelor,1
+1009,7,,82.0,Yes,18.0,Male,Bachelor,1
+1010,5,60.0,65.0,YES,17.0,Male,Masters,1
+1011,3,50.0,40.0,NO,16.0,Female,Highschool,0
+1012,abc,70.0,75.0,Yes,17.0,Female,Bachelors,1
+1013,8,85.0,90.0,yes,18.0,male,masters,1
+1014,5,60.0,58.0,No,17.0,Male,Bachelor,0
+1015,5,60.0,58.0,No,17.0,Male,Bachelor,0
+1016,9,95.0,96.0,Yes,999.0,Female,Bachelor,1
+1017,2,45.0,48.0,No,16.0,Female,Highschool,0
+1018,3,55.0,54.0,NO,17.0,unknown,Highschool,0
+1019,,80.0,85.0,yes,18.0,Female,masters,1
+1020,4,65.0,60.0,maybe,,Male,Highschool,0
+1021,10,20.0,98.0,YES,19.0,Female,Bachelor,1
+1022,6,85.0,,No,18.0,Male,College,1
+1023,0,1000.0,0.0,No,17.0,Male,unknown,0
+1024,8,85.0,85.0,No,17.0,Male,Bachelor,1
+1025,8,85.0,85.0,No,17.0,Male,Bachelor,1
